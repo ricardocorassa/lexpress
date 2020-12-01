@@ -1,0 +1,27 @@
+{
+  "name": "lexpress",
+  "version": "0.0.1",
+  "description": "This is a Yeoman generator to create express functions to run on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardocorassa/lexpress.git"
+  },
+  "keywords": [
+    "express",
+    "lambda",
+    "aws"
+  ],
+  "author": "Ricardo Corassa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardocorassa/lexpress/issues"
+  },
+  "homepage": "https://github.com/ricardocorassa/lexpress#readme",
+  "dependencies": {
+    "yeoman-generator": "^4.12.0"
+  }
+}
